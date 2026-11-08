@@ -15,7 +15,9 @@ sites:
     location: Latvia
   - name: baltic-ireland.ie (no ASV)
     url: https://baltic-ireland.ie/
-
+  - name: Paziņojumu tests (ignorēt)
+    url: https://status.baltic-ireland.ie/pazinojumu-tests-404
+    
 status-website:
   cname: status.baltic-ireland.ie
   name: baltic-ireland.ie statuss
