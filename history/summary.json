@@ -59,16 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.baltic-ireland.ie.ico",
     "slug": "pazinojumu-tests-ignoret",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "54.63%",
+    "uptimeDay": "54.63%",
+    "uptimeWeek": "54.63%",
+    "uptimeMonth": "54.63%",
+    "uptimeYear": "54.63%",
     "time": 20,
     "timeDay": 20,
     "timeWeek": 20,
     "timeMonth": 20,
     "timeYear": 20,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-08": 0
+    }
   }
 ]
