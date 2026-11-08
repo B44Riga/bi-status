@@ -3,9 +3,15 @@ owner: B44Riga
 repo: bi-status
 
 sites:
-  - name: baltic-ireland.ie
+  - name: baltic-ireland.ie (no ASV)
     url: https://baltic-ireland.ie/
+  - name: baltic-ireland.ie (no Īrijas)
+    url: https://baltic-ireland.ie/
+    type: globalping
+    location: Ireland
 
 status-website:
   baseUrl: /bi-status
   name: baltic-ireland.ie statuss
+  introTitle: "Portāla baltic-ireland.ie darbības statuss"
+  introMessage: "Pieejamība tiek pārbaudīta ik pēc 5 minūtēm. **No ASV** mēra GitHub serveri Amerikā, tāpēc atbildes laiks tur ir lielāks. **No Īrijas** mēra no Īrijas, un tas ir tuvāk tam, ko redz lasītāji. Atbildes laiks rāda, cik ātri serveris sāk atbildēt, nevis visas lapas ielādes laiku."
