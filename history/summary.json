@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 525,
-    "timeDay": 525,
-    "timeWeek": 525,
-    "timeMonth": 525,
-    "timeYear": 525,
+    "time": 515,
+    "timeDay": 515,
+    "timeWeek": 515,
+    "timeMonth": 515,
+    "timeYear": 515,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 552,
-    "timeDay": 552,
-    "timeWeek": 552,
-    "timeMonth": 552,
-    "timeYear": 552,
+    "time": 547,
+    "timeDay": 547,
+    "timeWeek": 547,
+    "timeMonth": 547,
+    "timeYear": 547,
     "dailyMinutesDown": {}
   },
   {
@@ -46,31 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1143,
-    "timeDay": 1143,
-    "timeWeek": 1143,
-    "timeMonth": 1143,
-    "timeYear": 1143,
+    "time": 1157,
+    "timeDay": 1157,
+    "timeWeek": 1157,
+    "timeMonth": 1157,
+    "timeYear": 1157,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Paziņojumu tests (ignorēt)",
-    "url": "https://status.baltic-ireland.ie/pazinojumu-tests-404",
-    "icon": "https://icons.duckduckgo.com/ip3/status.baltic-ireland.ie.ico",
-    "slug": "pazinojumu-tests-ignoret",
-    "status": "down",
-    "uptime": "54.63%",
-    "uptimeDay": "54.63%",
-    "uptimeWeek": "54.63%",
-    "uptimeMonth": "54.63%",
-    "uptimeYear": "54.63%",
-    "time": 20,
-    "timeDay": 20,
-    "timeWeek": 20,
-    "timeMonth": 20,
-    "timeYear": 20,
-    "dailyMinutesDown": {
-      "2026-11-08": 0
-    }
   }
 ]
