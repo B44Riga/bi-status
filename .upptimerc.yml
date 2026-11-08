@@ -3,8 +3,6 @@ owner: B44Riga
 repo: bi-status
 
 sites:
-  - name: baltic-ireland.ie (no ASV)
-    url: https://baltic-ireland.ie/
   - name: baltic-ireland.ie (no Īrijas)
     url: https://baltic-ireland.ie/
     type: globalping
@@ -13,6 +11,8 @@ sites:
     url: https://baltic-ireland.ie/
     type: globalping
     location: Latvia
+  - name: baltic-ireland.ie (no ASV)
+    url: https://baltic-ireland.ie/
 
 status-website:
   baseUrl: /bi-status
