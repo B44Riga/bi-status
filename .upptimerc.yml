@@ -9,6 +9,10 @@ sites:
     url: https://baltic-ireland.ie/
     type: globalping
     location: Ireland
+  - name: baltic-ireland.ie (no Latvijas)
+    url: https://baltic-ireland.ie/
+    type: globalping
+    location: Latvia
 
 status-website:
   baseUrl: /bi-status
