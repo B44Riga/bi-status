@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 512,
-    "timeDay": 512,
-    "timeWeek": 512,
-    "timeMonth": 512,
-    "timeYear": 512,
+    "time": 516,
+    "timeDay": 516,
+    "timeWeek": 516,
+    "timeMonth": 516,
+    "timeYear": 516,
     "dailyMinutesDown": {}
   },
   {
@@ -46,31 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1156,
-    "timeDay": 1156,
-    "timeWeek": 1156,
-    "timeMonth": 1156,
-    "timeYear": 1156,
+    "time": 1162,
+    "timeDay": 1162,
+    "timeWeek": 1162,
+    "timeMonth": 1162,
+    "timeYear": 1162,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Paziņojuma tests (ignorēt)",
-    "url": "https://status.baltic-ireland.ie/pazinojumu-tests-404",
-    "icon": "https://icons.duckduckgo.com/ip3/status.baltic-ireland.ie.ico",
-    "slug": "pazinojuma-tests-ignoret",
-    "status": "down",
-    "uptime": "52.43%",
-    "uptimeDay": "52.43%",
-    "uptimeWeek": "52.43%",
-    "uptimeMonth": "52.43%",
-    "uptimeYear": "52.43%",
-    "time": 21,
-    "timeDay": 21,
-    "timeWeek": 21,
-    "timeMonth": 21,
-    "timeYear": 21,
-    "dailyMinutesDown": {
-      "2026-11-08": 0
-    }
   }
 ]
