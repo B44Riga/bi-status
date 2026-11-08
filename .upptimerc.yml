@@ -20,4 +20,4 @@ status-website:
   cname: status.baltic-ireland.ie
   name: baltic-ireland.ie statuss
   introTitle: "Portāla baltic-ireland.ie darbības statuss"
-  introMessage: "Pieejamība tiek pārbaudīta ik pēc 5 minūtēm no trim vietām. **No Īrijas** un **no Latvijas** mēra tuvu lasītājiem, tāpēc šie rādītāji ir tuvāki tam, ko redz lasītāji. **No ASV** mēra GitHub serveri Amerikā, tāpēc atbildes laiks tur ir lielāks. Atbildes laiks rāda, cik ātri serveris sāk atbildēt, nevis visas lapas ielādes laiku."
+  introMessage: "Pieejamība tiek pārbaudīta ik pēc 5 minūtēm no trim vietām. **No Īrijas** un **no Latvijas** mēra tuvu lasītājiem, tāpēc šie rādītāji ir tuvāki tam, ko redz lasītāji. **No ASV** mēra GitHub serveri Amerikā, tāpēc atbildes laiks tur ir lielāks. Atbildes laiks rāda, cik ātri serveris sāk atbildēt, nevis visas lapas ielādes laiku. Ja portāls nav pieejams, pārbaudiet arī [Hetzner statusu](https://status.hetzner.com) (serveris) un [Cloudflare statusu](https://www.cloudflarestatus.com) (tīkls)."
