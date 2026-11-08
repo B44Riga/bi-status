@@ -1,6 +1,8 @@
 # Upptime configuration for the baltic-ireland.ie status page
 owner: B44Riga
 repo: bi-status
+assignees:
+  - edimante
 
 sites:
   - name: baltic-ireland.ie (no Īrijas)
