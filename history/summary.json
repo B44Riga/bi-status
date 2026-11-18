@@ -4,19 +4,19 @@
     "url": "https://baltic-ireland.ie/",
     "icon": "https://icons.duckduckgo.com/ip3/baltic-ireland.ie.ico",
     "slug": "baltic-ireland-ie-no-irijas",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 578,
-    "timeDay": 530,
+    "status": "up",
+    "uptime": "97.81%",
+    "uptimeDay": "77.48%",
+    "uptimeWeek": "96.78%",
+    "uptimeMonth": "97.81%",
+    "uptimeYear": "97.81%",
+    "time": 580,
+    "timeDay": 577,
     "timeWeek": 628,
-    "timeMonth": 578,
-    "timeYear": 578,
+    "timeMonth": 580,
+    "timeYear": 580,
     "dailyMinutesDown": {
-      "2026-11-18": 0
+      "2026-11-18": 324
     }
   },
   {
