@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/baltic-ireland.ie.ico",
     "slug": "baltic-ireland-ie-no-irijas",
     "status": "up",
-    "uptime": "97.81%",
+    "uptime": "97.82%",
     "uptimeDay": "77.48%",
     "uptimeWeek": "96.78%",
-    "uptimeMonth": "97.81%",
-    "uptimeYear": "97.81%",
-    "time": 580,
-    "timeDay": 577,
-    "timeWeek": 628,
-    "timeMonth": 580,
-    "timeYear": 580,
+    "uptimeMonth": "97.82%",
+    "uptimeYear": "97.82%",
+    "time": 574,
+    "timeDay": 527,
+    "timeWeek": 605,
+    "timeMonth": 574,
+    "timeYear": 574,
     "dailyMinutesDown": {
       "2026-11-18": 324
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 629,
-    "timeDay": 851,
-    "timeWeek": 712,
-    "timeMonth": 629,
-    "timeYear": 629,
+    "time": 623,
+    "timeDay": 673,
+    "timeWeek": 685,
+    "timeMonth": 623,
+    "timeYear": 623,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1146,
-    "timeDay": 1025,
-    "timeWeek": 1110,
-    "timeMonth": 1146,
-    "timeYear": 1146,
+    "time": 1143,
+    "timeDay": 1054,
+    "timeWeek": 1107,
+    "timeMonth": 1143,
+    "timeYear": 1143,
     "dailyMinutesDown": {}
   }
 ]
